@@ -1,0 +1,330 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    position: fixed;
+    height: 100px;
+    background-color: aliceblue;
+    top: 0;
+    left: 0;
+
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    letter-spacing: 8px;
+}
+
+.fixed {
+    display: flex;
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+    letter-spacing: 8px;
+}
+
+main {
+    padding-top: 80px;
+}
+
+.brarchitects {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    min-height: 100vh;
+
+}
+
+.branchitects-text {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.divbr {
+
+    background: url('./picture/architect.jpg') center / cover no-repeat;
+}
+
+.span1 {
+    background-color: black;
+    opacity: 0.5;
+    font-size: 45px;
+    color: aliceblue;
+    padding: 20px;
+
+}
+
+.span2 {
+    color: blue;
+    font-size: 30px;
+    letter-spacing: 5px;
+    padding: 15px;
+}
+
+.Projects {
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.boxsummer {
+    display: flex;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    height: 600px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.boxsummer img {
+    width: 300px;
+}
+
+.box1 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.text1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.box2 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.text2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.box3 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.box4 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.box5 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.box6 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.box7 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.box8 {
+    padding: 5px;
+    margin-top: 30px;
+    position: relative;
+}
+
+.text3 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.text4 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.text5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.text6 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.text7 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.text8 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: black;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.about {
+    margin-left: 40px;
+    font-size: 30px;
+}
+
+.lorem1 {
+    margin: 30px 30px 30px;
+}
+
+.people {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 95%;
+    margin: auto;
+}
+
+.people1 {
+    text-align: justify;
+    width: 300px;
+}
+
+.class1 {
+    border: 2px solid blue;
+    width: 300px;
+
+}
+
+.class2 {
+    border: 2px solid blue;
+    width: 300px;
+
+}
+
+.class3 {
+    border: 2px solid blue;
+    width: 300px;
+
+}
+
+.class4 {
+    border: 2px solid blue;
+    width: 300px;
+
+}
+
+form {
+    width: 100%;
+}
+
+input {
+    width: 100%;
+    height: 30px;
+}
+
+.Send {
+    background-color: black;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.people1bt {
+    background-color: aliceblue;
+    font-size: 20px;
+    border: none;
+    border: none;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+}
+
+.people2bt {
+    background-color: aliceblue;
+    font-size: 20px;
+    border: none;
+    border: none;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+}
+
+.people3bt {
+    background-color: aliceblue;
+    font-size: 20px;
+    border: none;
+    border: none;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+}
+
+.people4bt {
+    background-color: aliceblue;
+    font-size: 20px;
+    border: none;
+    border: none;
+    width: 300px;
+    text-align: center;
+    padding: 15px;
+}
+
+footer img {
+    max-width: 100%;
+}
+
+@media (max-width: 567px) {
+    header {
+        flex-direction: column;
+
+    }
+}
